@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/javier/Documents/cpp_files/aruco_detection/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/aruco_detection.cpp.o -c /home/javier/Documents/cpp_files/aruco_detection/aruco_detection.cpp",
+  "file": "/home/javier/Documents/cpp_files/aruco_detection/aruco_detection.cpp"
+}
+]
